@@ -9,3 +9,7 @@ Variables
 
 This data set contains a single file which provide the transaction details of customers who ordered various items from a bakery online
 https://www.kaggle.com/datasets/akashdeepkuila/bakery
+
+
+Dashboard:
+https://public.tableau.com/views/OnlineBakeryOrders/Dashboard2?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
